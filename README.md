@@ -2,7 +2,6 @@
 
 
 ## Sumário 
-- [Como Utilizar Esse Projteto](#como-utilizar-esse-projeto-)
 - [Escopo da Atividade](#escopo-da-atividade-%EF%B8%8F) 
 - [No Microsoft Teams](#no-microsoft-teams--)
 - [Regras](#regras-)
